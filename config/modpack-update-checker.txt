@@ -1,0 +1,8 @@
+Github Repo URL (MUST END URL WITH A SLASH):
+https://raw.githubusercontent.com/cmkrist/UofM_MC/main/
+Current Modpack Version
+0.0.1
+Modpack Name:
+UofM MC
+Expand Button (y/n) (doesn't reposition the button!):
+y
