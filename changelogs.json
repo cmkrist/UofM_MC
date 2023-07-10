@@ -4,5 +4,8 @@
   },
   "1.0.1": {
     "changelog": "Testing Mod Functionality"
+  },
+  "1.0.2": {
+    "changelog": "# Added Mods\r\n- Adorn\r\n- Patchouli\r\n- More Music Discs\r\n- Foodables\r\n- Crops Love Rain\r\n- CraftPresence\r\n- SuperFancyClouds\r\n- Show Me What You Got\r\n\r\n# Updated Mods\r\n- Architectury API\r\n- BCLIB\r\n- ClothConfig API\r\n\r\n- BetterEnd\r\n- BetterNether\r\n- Jade\r\n- ModernFix\r\n- NicerSkies\r\n- Terralith\r\n\r\n# Manual Patch Mods\r\n- SimpleSwords\r\n\r\n# Important Changes\r\n- AE2 works now 100%, no more crashing!\r\n- Crops Grow faster when it rains\r\n- More Food! Croptopia and Foodables\r\n- Added more furniture, including a Trading Station where you can set a price and an item to buy\r\n- Made the sky prettier :)\r\n- Allowed you to link items in chat (ex: Naming a custom sword, you can put it in chat and show everyone your new sword!)\r\n- Added a map of the world (mc.techeron.com:8123J)\r\n- Fixed some compatibility between FTBChunks and Xerox (mainly fixed the minimap to work with the mods)\r\n- Backpacks can now be worn!\r\n- Had to handpatch SimpleSwords to make it function, \r\n\r\n# Known Bugs:\r\n- FancyMenu still breaks once in a while, but it seems to be much more stable\r\n- Occasional Crash to menu (error code 1)\r\n"
   }
 }
